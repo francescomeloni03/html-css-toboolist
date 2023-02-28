@@ -1,0 +1,38 @@
+h1{
+    display: inline-block;  
+    vertical-align:top
+  
+}
+
+header{
+    background-color:white;
+    height: 75px;
+   
+}
+
+#foto1{
+    margin-top: 15px;
+    margin-left: 15px;   
+}
+
+
+.conteiner{
+    background-color:white;
+    width:750px;
+    height:600px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 30px;
+   
+} 
+
+body{
+    background-color: whitesmoke;
+}
+
+
+main{
+    
+}
+
