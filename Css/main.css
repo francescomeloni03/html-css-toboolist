@@ -1,6 +1,6 @@
 h1{
     display: inline-block;  
-    vertical-align:top
+    vertical-align:top;
   
 }
 
@@ -13,6 +13,7 @@ header{
 #foto1{
     margin-top: 15px;
     margin-left: 15px;   
+    
 }
 
 
@@ -28,6 +29,7 @@ header{
 
 body{
     background-color: whitesmoke;
+    margin: 0px;
 }
 
 #bottone1{
